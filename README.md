@@ -19,7 +19,7 @@ class antilag:
 class Attributes(antilag):
     @property
     def contact(self) -> Tuple[str, str, str]:
-        telegram = "instagram.com/wwwlittleboycom"
+        telegram = "instagram.com/infrqb"
         discord  = "1348479236079357962"
 	    
         return Instagram, discord
