@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/antilaggvip.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/4zbov.png" />
 
   <br/>
 
