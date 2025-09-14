@@ -22,17 +22,48 @@
 ### 📜 Code Showcase
 
 ```python
-# Simple username generator (no digits)
-import random
-import string
+from typing import Tuple, List, Dict
 
-def gen():
-    letters = string.ascii_lowercase
-    return ''.join(random.choice(letters) for _ in range(4))
+class antilag:
+    pass
 
-number = 100
-usernames = [gen() for _ in range(number)]
+class Attributes(antilag):
+    @property
+    def contact(self) -> Tuple[str, str, str]:
+        telegram = "instagram.com/wwwlittleboycom"
+        discord  = "wannaknowubabe"
+	    
+        return Instagram, discord
 
-with open("users.txt", "w") as users_file:
-    for username in usernames:
-        users_file.write(f"{username}\n")
+    @property
+    def life(self) -> Tuple[List[str], int]:
+        langs = ['Thailand', 'English']
+        age   = 19
+		
+        return langs, age
+	
+    @property
+    def coding(self) -> Tuple[Dict[str, List[str]], List[str], List[str], Dict[str]]:
+        langs = {
+            'expert'      : ['python'],
+            'intermediate': ['js'],
+            'learning'    : ['go']
+        }
+        specialities  = ['app rev engineering/']
+        ide           = ['vscode', 'intellij']
+        pc = {
+            'dual_boot': {
+                'Linux - EndeavourOS': {
+		    		'WM'       : 'Hyprland',
+                    'processor': 'AMD Ryzen 5 5600G | 6 cores',
+                    'ram'      : '16GB',
+                    'gpu'      : 'NVIDIA RTX 2060 | 12G'
+                },
+                'Windows 11': {
+                    'purpose': 'gaming / analyze'
+                }
+            }
+        }
+
+
+	return langs, specialities, ide, pc
