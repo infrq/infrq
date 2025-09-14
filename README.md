@@ -1,4 +1,13 @@
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/4zbov.png)
+<div align="center">
+
+  <img src="https://tryhackme-badges.s3.amazonaws.com/antilaggvip.png" alt="TryHackMe Badge" />
+
+  <br/>
+
+  <img src="https://wakatime.com/badge/user/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx.svg" alt="wakatime" />
+
+</div>
+
 
 
 ```python
