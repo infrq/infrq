@@ -4,7 +4,7 @@
 
   <br/>
 
-  <img src="https://wakatime.com/@ef99a584-8780-41f6-9218-f761586f9f1f"><img src="https://wakatime.com/badge/user/ef99a584-8780-41f6-9218-f761586f9f1f.svg" />
+  <a href="https://wakatime.com/@ef99a584-8780-41f6-9218-f761586f9f1f"><img src="https://wakatime.com/badge/user/ef99a584-8780-41f6-9218-f761586f9f1f.svg" alt="Total time coded since Sep 14 2025" /></a>
 
 </div>
 
