@@ -4,7 +4,7 @@
 
   <br/>
 
-  <img src="https://wakatime.com/static/img/repo-badges-example.png" />
+  <img src="https://wakatime.com/@ef99a584-8780-41f6-9218-f761586f9f1f"><img src="https://wakatime.com/badge/user/ef99a584-8780-41f6-9218-f761586f9f1f.svg" />
 
 </div>
 
