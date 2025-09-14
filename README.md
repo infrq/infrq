@@ -1,17 +1,7 @@
-<h1 align="center">Hi, I'm 4zbov 👋</h1>
-
-### 👤 Bio
-- 🔭 I'm currently working on cool personal projects.
-- 🌱 I’m learning about AI, backend dev, and automation.
-- 💬 Ask me about Python, JavaScript, or anything tech.
-- 📫 Contact me: yourname@example.com
-- 🧠 Fun fact: I love building tools that automate boring stuff.
-
----
-
-### 🚀 Skills
-
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/4zbov.png)
+
+
+Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
