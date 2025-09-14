@@ -4,7 +4,7 @@
 
   <br/>
 
-  <img src="https://wakatime.com/badge/user/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx.svg" alt="wakatime" />
+  <img src="https://wakatime.com/@ef99a584-8780-41f6-9218-f761586f9f1f/projects/tlklxiizfq?start=2025-09-08&end=2025-09-14" />
 
 </div>
 
