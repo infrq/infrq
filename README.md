@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/84z.png" />
+  <img src="[https://tryhackme-badges.s3.amazonaws.com/84z.png](https://tryhackme-badges.s3.amazonaws.com/84z.png)" />
 
   <br/>
 
