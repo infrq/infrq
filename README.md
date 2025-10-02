@@ -1,6 +1,6 @@
 <div align="center">
 
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5693342" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/84z.png" alt="Your Image Badge" />
 
   <br/>
 
